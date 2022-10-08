@@ -12,7 +12,7 @@ Have the autonomous robot navigate the path while detecting and avoiding obstacl
 
 Furthermore,the obstacles will be moved each attempt, so the autonomous robot needs to comprehend and react to different situations. By all these characteristics, the autonomous robot will react to different environments and complete its goal: “Complete the track in both directions.”
 
-Discussion:
+Challeneges:
 
   At the beginning of the project, the robot succeeded in detecting and avoiding obstacles until it approached the third obstacle, where it attempted to squeeze through between the obstacle and the end of the map. Once it breaches through, it loses sight of the path or falls off the map. The robot can navigate the path and avoid obstacles if the obstacle's initial position is altered. When altering the robot’s turn path, the robot is unable to complete its course and instead loops around the second and third obstacles. The robot fails to follow the path after avoiding obstacles.
   
