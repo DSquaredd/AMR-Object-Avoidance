@@ -21,4 +21,4 @@ Another problem at this moment was how the robot reacted to the obstacle while g
 
 Results:
 
-	By using the try and error method, a couple of days later, the robot was able to complete the track (back and forth) in less than 3 minutes; this was possible by speeding up the reaction of the robot while detecting the obstacles, writing some code that would rotate the robot, and fixing some parts of the code. Therefore, when trying to change the position of the obstacles and looking at the results, the robot succeeds in completing its goal.
+By using the try and error method, a couple of days later, the robot was able to complete the track (back and forth) in less than 3 minutes; this was possible by speeding up the reaction of the robot while detecting the obstacles, writing some code that would rotate the robot, and fixing some parts of the code. Therefore, when trying to change the position of the obstacles and looking at the results, the robot succeeds in completing its goal.
